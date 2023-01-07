@@ -1,0 +1,16 @@
+@import "./Variables.scss";
+
+$themes: (
+  bgThemeColor1: (
+    darkTheme: $Color_Black_1,
+    lightTheme: $Color_Green
+  ),
+  bgThemeColor2: (
+    darkTheme: $Color_Blue_1,
+    lightTheme: $Color_Green
+  ),
+  textThemeColor1: (
+    darkTheme: $Color_Yellow
+    lightTheme: $Color_Lilac_1
+  )
+);
