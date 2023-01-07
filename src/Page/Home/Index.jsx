@@ -192,7 +192,7 @@ export default function Home() {
 								eu tenho estudado tecnologias voltadas para o
 								Front End.
 							</p>
-							<Button link="https://drive.google.com/file/d/1SK9BTaeaUr6ctHOmtkhn2C5u8LYkc1Ro/view?usp=share_link">
+							<Button link="https://drive.google.com/file/d/1thKLB739E36CVJXTAYWWkEljgq2c3lyp/view?usp=share_link">
 								Download CV{" "}
 								<AiOutlineCloudDownload
 									className={Style.Icon}
@@ -289,7 +289,7 @@ export default function Home() {
 								me definir em 2 palavras, certamente seria:
 								esforçado e otimista.
 							</p>
-							<Button link="https://drive.google.com/file/d/1SK9BTaeaUr6ctHOmtkhn2C5u8LYkc1Ro/view?usp=share_link">
+							<Button link="https://drive.google.com/file/d/1thKLB739E36CVJXTAYWWkEljgq2c3lyp/view?usp=share_link">
 								Download CV{" "}
 								<AiOutlineCloudDownload
 									className={Style.Icon}
